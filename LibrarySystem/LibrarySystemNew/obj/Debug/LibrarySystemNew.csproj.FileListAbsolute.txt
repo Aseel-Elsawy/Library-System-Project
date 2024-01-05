@@ -1,0 +1,158 @@
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe.config
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.pdb
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.AssemblyReference.cache
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.categories.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientDebits.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.clients.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientTransaction.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Converts.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.DistributedItemscs.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Employees.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Inherit.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ItemDetails.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.JobType.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Main.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Properties.Resources.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Purchases.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Sales.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Store.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorDebit.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.vendors.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorTransaction.resources
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.GenerateResource.cache
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.CoreCompileInputs.cache
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.CopyComplete
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.exe
+D:\.net project\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.pdb
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Images.v23.1.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\.net project\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe.config
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\LibrarySystemNew.pdb
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Images.v23.1.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Data.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.AssemblyReference.cache
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.categories.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientDebits.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.clients.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientTransaction.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Converts.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.DistributedItemscs.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Employees.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Inherit.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.ItemDetails.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.JobType.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Main.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Properties.Resources.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Purchases.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Sales.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.Store.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorDebit.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.vendors.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorTransaction.resources
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.GenerateResource.cache
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.CoreCompileInputs.cache
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.CopyComplete
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.exe
+D:\.net project\git hub\LibrarySystemNew\LibrarySystemNew\obj\Debug\LibrarySystemNew.pdb
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.AssemblyReference.cache
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.categories.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientDebits.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.clients.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.ClientTransaction.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Converts.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.DistributedItemscs.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Employees.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Inherit.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.ItemDetails.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.JobType.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Main.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Properties.Resources.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Purchases.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Sales.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.Store.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorDebit.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.vendors.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.VendorTransaction.resources
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.GenerateResource.cache
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.csproj.CoreCompileInputs.cache
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.exe
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\obj\Debug\LibrarySystemNew.pdb
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe.config
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\bin\Debug\LibrarySystemNew.exe
+D:\.net project\git hub\LibrarySystem\LibrarySystemNew\bin\Debug\LibrarySystemNew.pdb
